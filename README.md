@@ -31,9 +31,9 @@ Este es el diagrama de flujo del proceso que sigue esta librería.
 
 ![flujo](https://github.com/GiovannaGlz/CDMX007-fe-md-links/blob/master/flujo.png)
 
-## Guía de uso e instalación de la librería
+## Guía de uso de la librería
 
-
+Esta librería funciona ejecutando el archivo _index.s_ a través del comando _node index.js_ dentro de la carpeta en la que se encuentra el documento _README.md_. 
 
 
 | ----------------------------------------------------------------------------------------------- |
