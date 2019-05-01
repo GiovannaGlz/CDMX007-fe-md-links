@@ -21,7 +21,7 @@ algunas estadísticas.
 
 ## Documentación técnica de la librería.
 
-ESta librería pretende entrar a un directorio, buscar los archivos *.md* dentro de él, leer esos archivos y encontrar los links o URL existentes para retornar la validación de cada uno de ellos, junto con las estadísticas del número de links totales, únicos, validados o rotos.
+Esta librería pretende entrar a un directorio, buscar los archivos *.md* dentro de él, leer esos archivos y encontrar los links o URL existentes para retornar la validación de cada uno de ellos, junto con las estadísticas del número de links totales, únicos, validados o rotos.
 
 Esta librería aún se encuentra es construcción.
 
@@ -29,7 +29,7 @@ Este es el diagrama de flujo del proceso que sigue esta librería.
 
 **Diagrama de flujo**
 
-![flujo](https://github.com/GiovannaGlz/CDMX007-fe-md-links/blob/master/README.md)
+![flujo](https://github.com/GiovannaGlz/CDMX007-fe-md-links/blob/master/flujo.png)
 
 ## Guía de uso e instalación de la librería
 
