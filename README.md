@@ -29,9 +29,11 @@ Este es el diagrama de flujo del proceso que sigue esta librería.
 
 **Diagrama de flujo**
 
-![flujo](./markdown/CDMX007-FE-MD-LINKS/flujo.png)
+![flujo](https://github.com/GiovannaGlz/CDMX007-fe-md-links/blob/master/README.md)
 
 ## Guía de uso e instalación de la librería
+
+
 
 
 | ----------------------------------------------------------------------------------------------- |
